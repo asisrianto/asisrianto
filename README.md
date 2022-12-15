@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asisrianto
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in data science and artificial intelligence
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me asisrianto.github.io
 
