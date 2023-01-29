@@ -25,18 +25,18 @@
 
 ## Portfolios
 
-- [Gitlab](https://breakdance.github.io/breakdance/) - software development
-- [Kaggle](https://breakdance.github.io/breakdance/) - data science & machine learning
-- [Tableau](https://breakdance.github.io/breakdance/) - data Visualization
+- [Gitlab](https://gitlab.com/asisrianto/) - software development
+- [Kaggle](https://kaggle.com/asisrianto/) - data science & machine learning
+- [Tableau](https://public.tableau.com/app/profile/asisrianto)) - data visualization
 
 I also write project-based articles on data science. Check out my latest blog post on [medium][medium]
 
 | Title | Link |
 | ------ | ------ |
-| Customer Churn Prediction Model | [https://medium.com/@asisrianto][Pl02] |
-| Customer Segmentation Model for More Effective Marketing Targets | [https://medium.com/@asisrianto][Pl02] |
-| Sentiment Analysis of Mobile Banking Services with Scraping Google Play reviews | [https://medium.com/@asisrianto][Pl03] |
-| Content-based Filtering in a Movie Recommender System | [https://medium.com/@asisrianto][Pl04] |
+| Customer Churn Prediction Model | [click here][Pl02] |
+| Customer Segmentation Model for More Effective Marketing Targets | [Click here][Pl02] |
+| Sentiment Analysis of Mobile Banking Services with Scraping Google Play reviews | [Click here][Pl03] |
+| Content-based Filtering in a Movie Recommender System | [Click here][Pl04] |
 
 Please feel free to contact me if you would like to discuss collaboration.
 
