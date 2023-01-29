@@ -1,13 +1,11 @@
 # Hi, I'm Asis Rianto
 
-> an undergraduate student at Universitas Pembangunan Nasional Veteran Yogyakarta
+> a lifelong learner
 > pasionate about science, technology and engineering.
 
 ## Industry Knowledge
 
-- Data Analytics
 - Data Analysis
-- Data Visualization
 - Data Science
 - Machine Learning
 - Back-end Development
@@ -27,10 +25,9 @@
 
 ## Portfolios
 
-- [Gitlab](https://breakdance.github.io/breakdance/) - Software Development
-- [Github](https://breakdance.github.io/breakdance/) - Data Science 
-- [Kaggle](https://breakdance.github.io/breakdance/) - Data Science
-- [Tableau](https://breakdance.github.io/breakdance/) - Data Visualization
+- [Gitlab](https://breakdance.github.io/breakdance/) - software development
+- [Kaggle](https://breakdance.github.io/breakdance/) - data science & machine learning
+- [Tableau](https://breakdance.github.io/breakdance/) - data Visualization
 
 I also write project-based articles on data science. Check out my latest blog post on [medium][medium]
 
