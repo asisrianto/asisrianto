@@ -23,7 +23,7 @@
 - PHP
 - Golang
 
-## Portfolios
+## Projects
 
 - [Gitlab](https://gitlab.com/asisrianto/) - software development
 - [Kaggle](https://kaggle.com/asisrianto/) - data science & machine learning
@@ -33,10 +33,11 @@ I also write project-based articles on data science. Check out my latest blog po
 
 | Title | Link |
 | ------ | ------ |
-| Customer Churn Prediction Model | [click here][Pl02] |
-| Customer Segmentation Model for More Effective Marketing Targets | [click here][Pl02] |
-| Sentiment Analysis of Mobile Banking Services with Scraping Google Play reviews | [click here][Pl03] |
-| Content-based Filtering in a Movie Recommender System | [click here][Pl04] |
+| Customer Churn Prediction Model | [read here][Pl02] |
+| Customer Segmentation Model for More Effective Marketing Targets | [read here][Pl02] |
+| Sentiment Analysis of Mobile Banking Services with Scraping Google Play reviews | [read here][Pl03] |
+| Content-based Filtering in a Movie Recommender System | [read here][Pl04] |
+| Read more... | [read here][Pl05] |
 
 Please feel free to contact me if you would like to discuss collaboration.
 
@@ -47,6 +48,7 @@ Please feel free to contact me if you would like to discuss collaboration.
    [Pl02]: <https://medium.com/@asisrianto>
    [Pl03]: <https://medium.com/@asisrianto>
    [Pl04]: <https://medium.com/@asisrianto>
+   [Pl05]: <https://medium.com/@asisrianto>
 
 
 <!-- 
