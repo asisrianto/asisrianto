@@ -1,27 +1,22 @@
 # Hi, I'm Asis Rianto
 
-> a lifelong learner
-> pasionate about science, technology and engineering.
+> a muggle by roots, a wizard by passion
 
 ## Industry Knowledge
 
-- Data Analysis
+- Artificial Intelligence
 - Data Science
-- Machine Learning
-- Back-end Development
+- Software Engineering
 
 ## Tools & Technologies
 
-- Google Sheets
-- Microsoft Excel
-- Microsoft Power BI
-- Tableau
-- SQL
-- Python
-- R programing language
-- JavaScript
-- PHP
-- Golang
+- Python (Numpy, Pandas, Matplotlib, Scikit-Learn, Tensorflow, Flask, Django, etc.)
+- JavaScript (React, Express)
+- Go (Gin)
+- PHP (Laravel)
+- SQL (MySQL, PostgreSQL)
+- NoSQL (MongoDB)
+- Redis
 
 ## Projects
 
