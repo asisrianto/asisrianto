@@ -2,11 +2,6 @@
 
 > a muggle by roots, a wizard by passion
 
-## Industry Knowledge
-
-- Artificial Intelligence
-- Data Science
-- Software Engineering
 
 ## Tools & Technologies
 
